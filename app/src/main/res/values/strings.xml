@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FlowerOrderChallenge</string>
+    <string name="detail_page_title">Flower order details</string>
+    <string name="order_status_button">Change order status</string>
+    <string name="update_order_status_button">Update order</string>
+    <string name="order_status_dialog_title">Choose the order\'s status</string>
+    <string name="id_details">ID: %1$s</string>
+    <string name="description_details">Description: %1$s</string>
+    <string name="price_details">Price: %1$s</string>
+    <string name="user_details">User: %1$s</string>
+    <string name="deliver_to_details">Delivery address: %1$s</string>
+    <string name="status_details">Status: %1$s</string>
+    <string name="location_error">Returned location is null. You maybe didn\'t give permission to use your location.</string>
+</resources>
